@@ -1,1 +1,1 @@
-This repository contains the code file for implementation of Resnet50 architecture to determine dog breeds.
+This repository contains the files associated with the Dog Breed Detection project
